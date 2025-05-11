@@ -4,34 +4,34 @@
     "images": [
       {
         "imageUrl": "/images/hotels/481481762/481481762.jpg",
-        "accessibleText": "hyatt pune hotel"
+        "accessibleText": "hyatt grand central new york"
       },
       {
         "imageUrl": "/images/hotels/481481762/525626081.jpg",
-        "accessibleText": "hyatt pune hotel"
+        "accessibleText": "hyatt grand central new york"
       },
       {
         "imageUrl": "/images/hotels/481481762/525626095.jpg",
-        "accessibleText": "hyatt pune hotel"
+        "accessibleText": "hyatt grand central new york"
       },
       {
         "imageUrl": "/images/hotels/481481762/525626104.jpg",
-        "accessibleText": "hyatt pune hotel"
+        "accessibleText": "hyatt grand central new york"
       },
       {
         "imageUrl": "/images/hotels/481481762/525626212.jpg",
-        "accessibleText": "hyatt pune hotel"
+        "accessibleText": "hyatt grand central new york"
       }
     ],
-    "title": "Hyatt Pune",
-    "subtitle": "Kalyani Nagar, Pune | 3.3 kms from city center",
+    "title": "Hyatt Grand Central New York",
+    "subtitle": "Midtown East, New York, NY 10017, United States",
     "benefits": [
       "Free cancellation",
       "No prepayment needed – pay at the property"
     ],
-    "price": "18900",
+    "price": "225",
     "ratings": "5",
-    "city": "pune",
+    "city": "new york",
     "reviews": {
       "data": [
         {
@@ -147,110 +147,110 @@
     "images": [
       {
         "imageUrl": "/images/hotels/465660377/465660377.jpg",
-        "accessibleText": "Courtyard by Marriott Pune"
+        "accessibleText": "Courtyard by Marriott New York City"
       }
     ],
-    "title": "Courtyard by Marriott Pune Hinjewadi",
-    "subtitle": "500 meters from the Rajiv Gandhi Infotech Park",
+    "title": "Courtyard by Marriott New York City",
+    "subtitle": "500 meters from Times Square",
     "benefits": [
       "Free cancellation",
       "No prepayment needed – pay at the property",
       "Free wifi",
       "Free lunch"
     ],
-    "price": "25300",
+    "price": "415",
     "ratings": "4",
-    "city": "pune"
+    "city": "new york"
   },
   {
     "hotelCode": 71224,
     "images": [
       {
         "imageUrl": "/images/hotels/469186143/469186143.jpg",
-        "accessibleText": "The Westin Pune Koregaon Park"
+        "accessibleText": "The Westin New York"
       }
     ],
-    "title": "The Westin Pune Koregaon Park",
-    "subtitle": "5.4 km from centre",
+    "title": "The Westin New York",
+    "subtitle": "5.4 km from Central Park",
     "benefits": [
       "Free cancellation",
       "No prepayment needed – pay at the property",
       "Free wifi"
     ],
-    "price": "11300",
+    "price": "335",
     "ratings": "5",
-    "city": "pune"
+    "city": "new york"
   },
   {
     "hotelCode": 71225,
     "images": [
       {
         "imageUrl": "/images/hotels/252004905/252004905.jpg",
-        "accessibleText": "Novotel Pune Viman Nagar Road"
+        "accessibleText": "Novotel New York"
       }
     ],
-    "title": "Novotel Pune Viman Nagar Road",
-    "subtitle": "Weikfield IT City Infopark | 7.1 km from centre",
+    "title": "Novotel New York",
+    "subtitle": "Times Square | 7.1 km from Central Park",
     "benefits": [
       "Pets allowed",
       "Dinner + Lunch included",
       "Free wifi",
       "Free taxi from airport"
     ],
-    "price": "14599",
+    "price": "275",
     "ratings": "3",
-    "city": "pune"
+    "city": "new york"
   },
   {
     "hotelCode": 71226,
     "images": [
       {
         "imageUrl": "/images/hotels/54360345/54360345.jpg",
-        "accessibleText": "Vivanta Pune"
+        "accessibleText": "Vivanta New York"
       }
     ],
-    "title": "Vivanta Pune",
-    "subtitle": "Xion Complex, | 14.2 km from centre",
+    "title": "Vivanta New York",
+    "subtitle": "Central Manhattan, | 14.2 km from centre",
     "benefits": [
       "Pets allowed",
       "Free wifi",
       "Free cancellation",
       "No prepayment needed – pay at the property"
     ],
-    "price": "9799",
+    "price": "350",
     "ratings": "4.3",
-    "city": "pune"
+    "city": "new york"
   },
   {
     "hotelCode": 81223,
     "images": [
       {
         "imageUrl": "/images/hotels/13800549/13800549.jpg",
-        "accessibleText": "Taj Lands End"
+        "accessibleText": "Taj Lands End New York"
       }
     ],
-    "title": "Taj Lands End",
-    "subtitle": "200 metres from the seafrontBandstand",
+    "title": "Taj Lands End New York",
+    "subtitle": "200 metres from the Hudson River",
     "benefits": [
       "Daily housekeeping",
       "Safety deposit box",
       "Free wifi",
       "Outdoor swimming pool"
     ],
-    "price": "34100",
+    "price": "510",
     "ratings": "4.2",
-    "city": "mumbai"
+    "city": "new york"
   },
   {
     "hotelCode": 81224,
     "images": [
       {
         "imageUrl": "/images/hotels/32810889/32810889.jpg",
-        "accessibleText": "Trident Nariman Point"
+        "accessibleText": "Trident New York"
       }
     ],
-    "title": "Trident Nariman Point",
-    "subtitle": "24 km from Chhatrapati Shivaji International Airport",
+    "title": "Trident New York",
+    "subtitle": "24 km from LaGuardia Airport",
     "benefits": [
       "Airport shuttle",
       "Spa and wellness centre",
@@ -258,9 +258,9 @@
       "Tea/coffee maker in all rooms",
       "Fitness centre"
     ],
-    "price": "38460",
+    "price": "515",
     "ratings": "3.9",
-    "city": "mumbai"
+    "city": "new york"
   },
   {
     "hotelCode": 81225,
@@ -270,8 +270,8 @@
         "accessibleText": "Aurika - Luxury by Lemon Tree Hotels"
       }
     ],
-    "title": "Aurika - Luxury by Lemon Tree Hotels",
-    "subtitle": "5.1 km from Phoenix Market City Mall, Aurika",
+    "title": "Aurika - Luxury New York",
+    "subtitle": "5.1 km from Times Square",
     "benefits": [
       "Outdoor swimming pool",
       "Spa and wellness centre",
@@ -279,20 +279,20 @@
       "Free parking",
       "Bar"
     ],
-    "price": "17460",
+    "price": "232",
     "ratings": "4.9",
-    "city": "mumbai"
+    "city": "new york"
   },
   {
     "hotelCode": 81226,
     "images": [
       {
         "imageUrl": "/images/hotels/472036509/472036509.jpg",
-        "accessibleText": "Four Seasons Hotel Mumbai"
+        "accessibleText": "Four Seasons Hotel"
       }
     ],
-    "title": "Four Seasons Hotel Mumbai",
-    "subtitle": "In the heart of Worli, the business hub of India’s largest city",
+    "title": "Four Seasons Hotel New York",
+    "subtitle": "In the heart of Manhattan, the business hub of New York",
     "benefits": [
       "Kitchen",
       "Pets allowed",
@@ -300,9 +300,9 @@
       "Free parking",
       "24-hour front desk"
     ],
-    "price": "12460",
+    "price": "165",
     "ratings": "3.5",
-    "city": "mumbai"
+    "city": "new york"
   },
   {
     "hotelCode": 81227,
@@ -312,17 +312,17 @@
         "accessibleText": "Treebo Trend New Light Suites"
       }
     ],
-    "title": "Treebo Trend New Light Suites",
-    "subtitle": "6.2 km from The Heritage Centre & Aerospace Museum",
+    "title": "Treebo Trend New Light Suites New York",
+    "subtitle": "6.2 km from Central Park",
     "benefits": [
       "Non-smoking rooms",
       "Laundry",
       "Free wifi",
       "Tea/coffee maker in all rooms"
     ],
-    "price": "5460",
+    "price": "72",
     "ratings": "3.5",
-    "city": "bangalore"
+    "city": "new york"
   },
   {
     "hotelCode": 81228,
@@ -332,16 +332,331 @@
         "accessibleText": "Renaissance Bengaluru Race Course Hotel"
       }
     ],
-    "title": "Renaissance Bengaluru Race Course Hotel",
-    "subtitle": "Located in the heart of Bengaluru Renaissance Bengaluru Race Course Hotel",
+    "title": "Renaissance New York Downtown",
+    "subtitle": "Located in the heart of Manhattan",
     "benefits": [
-      "Outdoor swimming poo",
+      "Outdoor swimming pool",
       "Spa and wellness centre",
       "Airport shuttle",
       "Bar"
     ],
-    "price": "21460",
+    "price": "288",
     "ratings": "5",
-    "city": "bangalore"
+    "city": "new york"
+  },
+  {
+    "hotelCode": 81229,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/rc1.jpeg",
+        "accessibleText": "The Ritz-Carlton San Francisco"
+      }
+    ],
+    "title": "The Ritz-Carlton San Francisco",
+    "subtitle": "1.2 km from Fisherman's Wharf",
+    "benefits": [
+      "Luxury spa",
+      "Free wifi",
+      "24-hour room service",
+      "Airport shuttle"
+    ],
+    "price": "450",
+    "ratings": "4.8",
+    "city": "san francisco"
+  },
+  {
+    "hotelCode": 81230,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/wd1.webp",
+        "accessibleText": "Waldorf Astoria Beverly Hills"
+      }
+    ],
+    "title": "Waldorf Astoria Beverly Hills",
+    "subtitle": "In the heart of Beverly Hills",
+    "benefits": [
+      "Spa and wellness centre",
+      "Free wifi",
+      "Valet parking",
+      "Pet-friendly"
+    ],
+    "price": "875",
+    "ratings": "4.9",
+    "city": "beverly hills"
+  },
+  {
+    "hotelCode": 81231,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/tl.webp",
+        "accessibleText": "The Langham, Chicago"
+      }
+    ],
+    "title": "The Langham, Chicago",
+    "subtitle": "Located in the Loop District",
+    "benefits": [
+      "Indoor pool",
+      "Free wifi",
+      "Business center",
+      "Concierge service"
+    ],
+    "price": "320",
+    "ratings": "4.7",
+    "city": "chicago"
+  },
+  {
+    "hotelCode": 81232,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/ts1.jpg",
+        "accessibleText": "The Standard, High Line New York"
+      }
+    ],
+    "title": "The Standard, High Line New York",
+    "subtitle": "1.5 km from the Empire State Building",
+    "benefits": ["Rooftop bar", "Free wifi", "Pet-friendly", "Fitness center"],
+    "price": "225",
+    "ratings": "4.5",
+    "city": "new york"
+  },
+  {
+    "hotelCode": 81233,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/hn.webp",
+        "accessibleText": "Hotel Nikko San Francisco"
+      }
+    ],
+    "title": "Hotel Nikko San Francisco",
+    "subtitle": "Just steps from Union Square",
+    "benefits": ["Indoor pool", "Free wifi", "Bar/lounge", "Fitness center"],
+    "price": "275",
+    "ratings": "4.6",
+    "city": "san francisco"
+  },
+  {
+    "hotelCode": 81234,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/bh.webp",
+        "accessibleText": "The Beverly Hilton"
+      }
+    ],
+    "title": "The Beverly Hilton",
+    "subtitle": "Located in Beverly Hills",
+    "benefits": [
+      "Outdoor pool",
+      "Free wifi",
+      "24-hour front desk",
+      "Spa and wellness centre"
+    ],
+    "price": "680",
+    "ratings": "4.8",
+    "city": "beverly hills"
+  },
+  {
+    "hotelCode": 81235,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/kh.webp",
+        "accessibleText": "Kimpton Hotel Palomar Los Angeles"
+      }
+    ],
+    "title": "Kimpton Hotel Palomar Los Angeles",
+    "subtitle": "In the heart of Westwood",
+    "benefits": [
+      "Pet-friendly",
+      "Free wifi",
+      "Outdoor pool",
+      "On-site restaurant"
+    ],
+    "price": "299",
+    "ratings": "4.7",
+    "city": "los angeles"
+  },
+  {
+    "hotelCode": 81236,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/so.webp",
+        "accessibleText": "Shutters on the Beach"
+      }
+    ],
+    "title": "Shutters on the Beach",
+    "subtitle": "Santa Monica Beachfront",
+    "benefits": [
+      "Private beach",
+      "Outdoor pool",
+      "Free wifi",
+      "Spa and wellness centre"
+    ],
+    "price": "595",
+    "ratings": "4.9",
+    "city": "los angeles"
+  },
+  {
+    "hotelCode": 81237,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/tp.webp",
+        "accessibleText": "The Peninsula Beverly Hills"
+      }
+    ],
+    "title": "The Peninsula Beverly Hills",
+    "subtitle": "Beverly Hills",
+    "benefits": [
+      "Free wifi",
+      "24-hour room service",
+      "Fitness center",
+      "Outdoor pool"
+    ],
+    "price": "850",
+    "ratings": "5.0",
+    "city": "beverly hills"
+  },
+  {
+    "hotelCode": 81238,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/tw.webp",
+        "accessibleText": "The Westin St. Francis San Francisco"
+      }
+    ],
+    "title": "The Westin St. Francis San Francisco",
+    "subtitle": "Union Square, San Francisco",
+    "benefits": [
+      "Free wifi",
+      "24-hour front desk",
+      "Fitness center",
+      "Outdoor pool"
+    ],
+    "price": "380",
+    "ratings": "4.6",
+    "city": "san francisco"
+  },
+  {
+    "hotelCode": 81239,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/tf.webp",
+        "accessibleText": "The Fairmont San Francisco"
+      }
+    ],
+    "title": "The Fairmont San Francisco",
+    "subtitle": "Nob Hill, San Francisco",
+    "benefits": [
+      "Free wifi",
+      "Pet-friendly",
+      "24-hour concierge",
+      "Fitness center"
+    ],
+    "price": "570",
+    "ratings": "4.8",
+    "city": "san francisco"
+  },
+  {
+    "hotelCode": 81240,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/cn.jpeg",
+        "accessibleText": "The Conrad New York Downtown"
+      }
+    ],
+    "title": "The Conrad New York Downtown",
+    "subtitle": "Located near Battery Park",
+    "benefits": ["Fitness center", "Free wifi", "Pet-friendly", "Spa"],
+    "price": "450",
+    "ratings": "4.7",
+    "city": "new york"
+  },
+  {
+    "hotelCode": 81241,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/sr.webp",
+        "accessibleText": "The St. Regis New York"
+      }
+    ],
+    "title": "The St. Regis New York",
+    "subtitle": "Fifth Avenue, New York",
+    "benefits": [
+      "24-hour room service",
+      "Free wifi",
+      "Luxury spa",
+      "Pet-friendly"
+    ],
+    "price": "700",
+    "ratings": "4.9",
+    "city": "new york"
+  },
+  {
+    "hotelCode": 81242,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/ic.webp",
+        "accessibleText": "InterContinental Los Angeles Downtown"
+      }
+    ],
+    "title": "InterContinental Los Angeles Downtown",
+    "subtitle": "Located in the Financial District",
+    "benefits": [
+      "Outdoor pool",
+      "Free wifi",
+      "Business center",
+      "Fitness center"
+    ],
+    "price": "375",
+    "ratings": "4.6",
+    "city": "los angeles"
+  },
+  {
+    "hotelCode": 81243,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/hj.webp",
+        "accessibleText": "Hotel Jerome, Aspen"
+      }
+    ],
+    "title": "Hotel Jerome, Aspen",
+    "subtitle": "Located in the heart of Aspen",
+    "benefits": ["Free wifi", "Luxury spa", "Fitness center", "Indoor pool"],
+    "price": "890",
+    "ratings": "5.0",
+    "city": "aspen"
+  },
+  {
+    "hotelCode": 81244,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/tr.webp",
+        "accessibleText": "The Ritz-Carlton, Half Moon Bay"
+      }
+    ],
+    "title": "The Ritz-Carlton, Half Moon Bay",
+    "subtitle": "Half Moon Bay, California",
+    "benefits": [
+      "Outdoor pool",
+      "Free wifi",
+      "Pet-friendly",
+      "Spa and wellness centre"
+    ],
+    "price": "950",
+    "ratings": "4.8",
+    "city": "half moon bay"
+  },
+  {
+    "hotelCode": 81245,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/rc/tb.webp",
+        "accessibleText": "The Broadmoor"
+      }
+    ],
+    "title": "The Broadmoor",
+    "subtitle": "Colorado Springs",
+    "benefits": ["Free wifi", "Indoor pool", "Fitness center", "Luxury spa"],
+    "price": "850",
+    "ratings": "4.9",
+    "city": "colorado springs"
   }
 ]

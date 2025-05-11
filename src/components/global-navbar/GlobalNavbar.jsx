@@ -1,4 +1,4 @@
-import logo from 'assests/logos/stay_booker_logo.png';
+// import logo from 'assests/logos/stay_booker_logo.png';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import HamburgerMenu from 'components/hamburger-menu/HamburgerMenu';
@@ -19,7 +19,8 @@ const GlobalNavbar = () => {
     <div className="relative flex flex-wrap justify-between items-center px-4 md:px-12 global-navbar__container bg-brand brand-divider-bottom shadow-md">
       <div className="flex">
         <Link to="/">
-          <img src={logo} alt="site logo" className="site-logo__img" />
+          {/* <img src={logo} alt="site logo" className="site-logo__img" /> */}
+          <h3 className="text-2xl text-white font-medium">Wandering Nest</h3>
         </Link>
       </div>
       <ul className="list-none hidden md:flex">

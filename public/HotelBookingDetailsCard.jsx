@@ -234,7 +234,7 @@ const HotelBookingDetailsCard = ({ hotelCode }) => {
         <div className="mb-4">
           <div className="font-semibold text-gray-800">Per day rate</div>
           <div className="text-gray-600">
-            {formatPrice(bookingDetails.currentNightRate)} USA
+            {formatPrice(bookingDetails.currentNightRate)} Wandering Nest
           </div>
         </div>
 

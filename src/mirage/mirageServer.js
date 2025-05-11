@@ -199,7 +199,7 @@ export function makeServer({ environment = 'development' } = {}) {
                   hotelName: 'Seaside Resort',
                   checkInDate: '2024-01-20',
                   checkOutDate: '2024-01-25',
-                  totalFare: '₹14,500',
+                  totalFare: '$174',
                 },
                 {
                   bookingId: 'BKG124',
@@ -207,7 +207,7 @@ export function makeServer({ environment = 'development' } = {}) {
                   hotelName: 'Mountain Retreat',
                   checkInDate: '2024-02-15',
                   checkOutDate: '2024-02-20',
-                  totalFare: '₹5,890',
+                  totalFare: '$71',
                 },
                 {
                   bookingId: 'BKG125',
@@ -215,7 +215,7 @@ export function makeServer({ environment = 'development' } = {}) {
                   hotelName: 'City Central Hotel',
                   checkInDate: '2024-03-01',
                   checkOutDate: '2024-03-05',
-                  totalFare: '₹21,700',
+                  totalFare: '$254',
                 },
               ],
             },
@@ -288,7 +288,7 @@ export function makeServer({ environment = 'development' } = {}) {
               elements: [
                 {
                   code: 1211,
-                  name: 'Mumbai',
+                  name: 'New York',
                   imageUrl: '/images/cities/mumbai.jpg',
                 },
                 {
@@ -319,7 +319,7 @@ export function makeServer({ environment = 'development' } = {}) {
 
       this.get('/nearbyHotels', () => {
         const hotels = hotelsData.filter((hotel) => {
-          return hotel.city === 'pune';
+          return hotel.city === 'new york';
         });
         return new Response(
           200,
@@ -517,7 +517,16 @@ export function makeServer({ environment = 'development' } = {}) {
           {
             errors: [],
             data: {
-              elements: ['pune', 'bangalore', 'mumbai'],
+              elements: [
+                'new york',
+                'san francisco',
+                'beverly hills',
+                'chicago',
+                'los angeles',
+                'aspen',
+                'half moon bay',
+                'colorado springs',
+              ],
             },
           }
         );
@@ -610,7 +619,7 @@ export function makeServer({ environment = 'development' } = {}) {
                       },
                       {
                         label: 'Total Fare',
-                        value: '₹14,500',
+                        value: '$169',
                       },
                     ],
                   },

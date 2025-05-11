@@ -1,6 +1,6 @@
-# Stay Booker Pro
+# Wandering Nest
 
-Stay Booker Pro is a production-ready hotel booking website built with modern web technologies. It is designed to be a fully functional and responsive web application for hotel booking services. For the backend api checkout: [staybooker-express-api](https://github.com/iZooGooD/stay-booker-hotel-booking-express-api)
+Wandering Nest is a production-ready hotel booking website built with modern web technologies. It is designed to be a fully functional and responsive web application for hotel booking services. For the backend api checkout: [staybooker-express-api](https://github.com/iZooGooD/stay-booker-hotel-booking-express-api)
 
 ## Key Features
 
@@ -70,7 +70,7 @@ This command will open the Cypress test runner, where you can execute specific t
 
 ### Husky for Pre-Commit Hooks
 
-Stay Booker Pro uses Husky to manage pre-commit hooks, ensuring that code quality and formatting standards are maintained. Before each commit, Husky runs various checks to make sure that the committed code adheres to defined standards.
+Wandering Nest uses Husky to manage pre-commit hooks, ensuring that code quality and formatting standards are maintained. Before each commit, Husky runs various checks to make sure that the committed code adheres to defined standards.
 
 ### GitHub Workflow
 
@@ -94,7 +94,7 @@ Here's how you can seamlessly incorporate it into the "Contributing" section:
 
 ## Contributing
 
-We welcome contributions to Stay Booker Pro! If you have suggestions or would like to contribute code, please feel free to create issues or submit pull requests.
+We welcome contributions to Wandering Nest! If you have suggestions or would like to contribute code, please feel free to create issues or submit pull requests.
 
 ### Code Quality and Linting
 

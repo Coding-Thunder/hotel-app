@@ -17,7 +17,7 @@ const ImageCard = (props) => {
       onClick={() => onPopularDestincationCardClick(name)}
       data-testid="image-card"
     >
-      <img src={imageUrl} className="rounded w-[120px] h-[75px]" alt="mumbai" />
+      <img src={imageUrl} className="rounded w-[120px] h-[75px]" alt="new york" />
       <h4 className="text-center">{name}</h4>
     </div>
   );

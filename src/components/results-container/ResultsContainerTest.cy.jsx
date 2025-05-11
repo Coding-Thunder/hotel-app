@@ -54,34 +54,34 @@ describe('ResultsContainer', () => {
         images: [
           {
             imageUrl: '/images/hotels/481481762/481481762.jpg',
-            accessibleText: 'hyatt pune hotel',
+            accessibleText: 'hyatt grand central new york',
           },
           {
             imageUrl: '/images/hotels/481481762/525626081.jpg',
-            accessibleText: 'hyatt pune hotel',
+            accessibleText: 'hyatt grand central new york',
           },
           {
             imageUrl: '/images/hotels/481481762/525626095.jpg',
-            accessibleText: 'hyatt pune hotel',
+            accessibleText: 'hyatt grand central new york',
           },
           {
             imageUrl: '/images/hotels/481481762/525626104.jpg',
-            accessibleText: 'hyatt pune hotel',
+            accessibleText: 'hyatt grand central new york',
           },
           {
             imageUrl: '/images/hotels/481481762/525626212.jpg',
-            accessibleText: 'hyatt pune hotel',
+            accessibleText: 'hyatt grand central new york',
           },
         ],
-        title: 'Hyatt Pune',
-        subtitle: 'Kalyani Nagar, Pune | 3.3 kms from city center',
+        title: 'Hyatt Grand Central New York',
+        subtitle: 'Midtown East, New York, NY 10017, United States',
         benefits: [
           'Free cancellation',
           'No prepayment needed – pay at the property',
         ],
-        price: '18900',
+        price: '225',
         ratings: '5',
-        city: 'pune',
+        city: 'new york',
         reviews: {
           data: [
             {
@@ -90,6 +90,7 @@ describe('ResultsContainer', () => {
               review:
                 'The hotel is very good and the staff is very friendly. The food is also very good.',
               date: 'Date of stay: 2021-01-01',
+              verified: true,
             },
             {
               reviewerName: 'Sara Johnson',
@@ -97,18 +98,21 @@ describe('ResultsContainer', () => {
               review:
                 'Great hotel with excellent service. The rooms are spacious and clean. The staff went above and beyond to ensure a comfortable stay. Highly recommended!',
               date: 'Date of stay: 2021-02-15',
+              verified: false,
             },
             {
               reviewerName: 'John Smith',
               rating: 3,
               review: 'Average hotel. The staff could be more attentive.',
               date: 'Date of stay: 2021-03-10',
+              verified: true,
             },
             {
               reviewerName: 'Emily Davis',
               rating: 5,
               review: 'Amazing experience! The hotel exceeded my expectations.',
               date: 'Date of stay: 2021-04-20',
+              verified: false,
             },
             {
               reviewerName: 'David Wilson',
@@ -116,6 +120,7 @@ describe('ResultsContainer', () => {
               review:
                 'Terrible experience. The hotel was dirty and the staff was rude.',
               date: 'Date of stay: 2021-05-05',
+              verified: true,
             },
             {
               reviewerName: 'Jessica Thompson',
@@ -123,6 +128,7 @@ describe('ResultsContainer', () => {
               review:
                 'Lovely hotel with a great location. The staff was friendly and helpful.',
               date: 'Date of stay: 2021-06-12',
+              verified: false,
             },
             {
               reviewerName: 'Michael Brown',
@@ -130,6 +136,7 @@ describe('ResultsContainer', () => {
               review:
                 'Disappointing stay. The room was not clean and the service was slow.',
               date: 'Date of stay: 2021-07-20',
+              verified: true,
             },
             {
               reviewerName: 'Sophia Lee',
@@ -137,6 +144,7 @@ describe('ResultsContainer', () => {
               review:
                 'Exceptional service and beautiful rooms. The staff was incredibly friendly and attentive. The amenities provided were top-notch. Overall, a truly memorable experience!',
               date: 'Date of stay: 2021-08-05',
+              verified: false,
             },
             {
               reviewerName: 'Daniel Johnson',
@@ -144,6 +152,7 @@ describe('ResultsContainer', () => {
               review:
                 'Decent hotel with average facilities. The staff was polite and helpful. However, the room could have been cleaner. It was an okay stay overall.',
               date: 'Date of stay: 2021-09-10',
+              verified: true,
             },
             {
               reviewerName: 'Olivia Wilson',
@@ -151,6 +160,7 @@ describe('ResultsContainer', () => {
               review:
                 'Enjoyed my stay at the hotel. The room was comfortable and the staff was friendly.',
               date: 'Date of stay: 2021-10-15',
+              verified: false,
             },
             {
               reviewerName: 'Ethan Davis',
@@ -158,6 +168,7 @@ describe('ResultsContainer', () => {
               review:
                 'Fantastic hotel with great amenities. The staff was attentive and helpful.',
               date: 'Date of stay: 2021-11-20',
+              verified: true,
             },
             {
               reviewerName: 'Ava Smith',
@@ -165,6 +176,7 @@ describe('ResultsContainer', () => {
               review:
                 'Not satisfied with the hotel. The room was small and the service was poor.',
               date: 'Date of stay: 2021-12-05',
+              verified: false,
             },
             {
               reviewerName: 'Mia Johnson',
@@ -172,6 +184,7 @@ describe('ResultsContainer', () => {
               review:
                 'Had a pleasant stay at the hotel. The location was convenient and the staff was friendly.',
               date: 'Date of stay: 2022-01-10',
+              verified: true,
             },
             {
               reviewerName: 'Noah Wilson',
@@ -179,6 +192,7 @@ describe('ResultsContainer', () => {
               review:
                 'Average hotel with decent facilities. The staff was helpful.',
               date: 'Date of stay: 2022-02-15',
+              verified: false,
             },
             {
               reviewerName: 'Liam Davis',
@@ -186,88 +200,80 @@ describe('ResultsContainer', () => {
               review:
                 'Outstanding hotel with top-notch service. The rooms were luxurious and comfortable.',
               date: 'Date of stay: 2022-03-20',
+              verified: true,
             },
           ],
         },
       },
       {
-        hotelCode: 71223,
+        hotelCode: 81245,
         images: [
           {
-            imageUrl: '/images/hotels/465660377/465660377.jpg',
-            accessibleText: 'Courtyard by Marriott Pune',
+            imageUrl: '/images/hotels/rc/tb.webp',
+            accessibleText: 'The Broadmoor',
           },
         ],
-        title: 'Courtyard by Marriott Pune Hinjewadi',
-        subtitle: '500 meters from the Rajiv Gandhi Infotech Park',
-        benefits: [
-          'Free cancellation',
-          'No prepayment needed – pay at the property',
-          'Free wifi',
-          'Free lunch',
-        ],
-        price: '25300',
-        ratings: '4',
-        city: 'pune',
+        title: 'The Broadmoor',
+        subtitle: 'Colorado Springs',
+        benefits: ['Free wifi', 'Indoor pool', 'Fitness center', 'Luxury spa'],
+        price: '850',
+        ratings: '4.9',
+        city: 'colorado springs',
       },
       {
-        hotelCode: 71224,
+        hotelCode: 81242,
         images: [
           {
-            imageUrl: '/images/hotels/469186143/469186143.jpg',
-            accessibleText: 'The Westin Pune Koregaon Park',
+            imageUrl: '/images/hotels/rc/ic.webp',
+            accessibleText: 'InterContinental Los Angeles Downtown',
           },
         ],
-        title: 'The Westin Pune Koregaon Park',
-        subtitle: '5.4 km from centre',
+        title: 'InterContinental Los Angeles Downtown',
+        subtitle: 'Located in the Financial District',
         benefits: [
-          'Free cancellation',
-          'No prepayment needed – pay at the property',
+          'Outdoor pool',
           'Free wifi',
+          'Business center',
+          'Fitness center',
         ],
-        price: '11300',
-        ratings: '5',
-        city: 'pune',
+        price: '375',
+        ratings: '4.6',
+        city: 'los angeles',
       },
       {
-        hotelCode: 71225,
+        hotelCode: 81243,
         images: [
           {
-            imageUrl: '/images/hotels/252004905/252004905.jpg',
-            accessibleText: 'Novotel Pune Viman Nagar Road',
+            imageUrl: '/images/hotels/rc/hj.webp',
+            accessibleText: 'Hotel Jerome, Aspen',
           },
         ],
-        title: 'Novotel Pune Viman Nagar Road',
-        subtitle: 'Weikfield IT City Infopark | 7.1 km from centre',
-        benefits: [
-          'Pets allowed',
-          'Dinner + Lunch included',
-          'Free wifi',
-          'Free taxi from airport',
-        ],
-        price: '14599',
-        ratings: '3',
-        city: 'pune',
+        title: 'Hotel Jerome, Aspen',
+        subtitle: 'Located in the heart of Aspen',
+        benefits: ['Free wifi', 'Luxury spa', 'Fitness center', 'Indoor pool'],
+        price: '890',
+        ratings: '5.0',
+        city: 'aspen',
       },
       {
-        hotelCode: 71226,
+        hotelCode: 81244,
         images: [
           {
-            imageUrl: '/images/hotels/54360345/54360345.jpg',
-            accessibleText: 'Vivanta Pune',
+            imageUrl: '/images/hotels/rc/tr.webp',
+            accessibleText: 'The Ritz-Carlton, Half Moon Bay',
           },
         ],
-        title: 'Vivanta Pune',
-        subtitle: 'Xion Complex, | 14.2 km from centre',
+        title: 'The Ritz-Carlton, Half Moon Bay',
+        subtitle: 'Half Moon Bay, California',
         benefits: [
-          'Pets allowed',
+          'Outdoor pool',
           'Free wifi',
-          'Free cancellation',
-          'No prepayment needed – pay at the property',
+          'Pet-friendly',
+          'Spa and wellness centre',
         ],
-        price: '9799',
-        ratings: '4.3',
-        city: 'pune',
+        price: '950',
+        ratings: '4.8',
+        city: 'half moon bay',
       },
     ],
   };

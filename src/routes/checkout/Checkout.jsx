@@ -267,7 +267,7 @@ const Checkout = () => {
               type="submit"
               disabled={isSubmitDisabled}
             >
-              Pay ₹ {location.state?.total}
+              Pay $ {location.state?.total}
             </button>
           </div>
         </form>
