@@ -1,14 +1,17 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
-const FooterLink = ({ to, label }) => (
-  <Link
-    to={to}
-    className="block text-slate-700 hover:text-brand transition-colors duration-300"
-  >
-    {label}
-  </Link>
-);
+const FooterLink = ({ to, label, call }) => {
+  const href = call ? `tel:${call}` : to;
+
+  return (
+    <a
+      href={href}
+      className="block text-slate-700 hover:text-brand transition-colors duration-300"
+    >
+      {label}
+    </a>
+  );
+};
 
 const GlobalFooter = () => {
   return (
@@ -23,7 +26,7 @@ const GlobalFooter = () => {
           </div>
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
             <h4 className="font-bold text-lg mb-2">Support</h4>
-            <FooterLink to="/" label="FAQs" />
+            <FooterLink to="/" call={'+18884019180'} label="+1 888-401-9180" />
           </div>
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
             <h4 className="font-bold text-lg mb-2">Newsletter</h4>
